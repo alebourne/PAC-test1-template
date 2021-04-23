@@ -1,2 +1,2 @@
 # test1-template
-The template repository for the test1 course on Learning Lab.
+The repository is for testing accessibility. YOu can take destructive actions in here.
